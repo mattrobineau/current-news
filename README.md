@@ -1,5 +1,4 @@
 # current-news
-List of sites I use to stay current with the new shiny things
 
 - Misc
 	- [Hacker News](https://news.ycombinator.com/)
@@ -19,3 +18,5 @@ List of sites I use to stay current with the new shiny things
 - Golang
   - [Golang Weekly](https://golangweekly.com/)
   - [Golang News](https://golangnews.com/)
+- Rust
+  - [This Week in Rust](https://this-week-in-rust.org/)
